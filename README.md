@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noran Mohamed</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noranmohamed309" alt="noranmohamed309" /></a> </p>
-
+<div align="center">
+<img src="https://picsum.photos/300 align="center">
+                                                  </div>
 - 🌱 I’m currently learning **Android,c++,java**
 
 - 📫 How to reach me **noranmohamed309@gmail.com**
